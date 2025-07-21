@@ -1,4 +1,4 @@
-# Welcome, I'm Claudio Gonzalez Vera 👋
+# Welcome, I'm Claudio Enrique Gonzalez Vera 👋
 
 ## About Me
 
