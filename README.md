@@ -2,7 +2,8 @@
 
 ## About Me
 
-I truly enjoy learning new programming languages, as well as programming itself. My current interests range from mastering Rust, Python, and F#. 
+I truly enjoy learning new programming languages, as well as programming itself. 
+My current interests range from mastering Rust, Python, and F#. 
 True to my background as a systems engineer, in my free time I pursue learning the fundamentals of machine learning.
 
 <!--
