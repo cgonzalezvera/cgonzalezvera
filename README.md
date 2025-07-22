@@ -2,9 +2,11 @@
 
 ## About Me
 
-I've been working as an enterprise applications programmer for over 10 years. 
-I enjoy learning new programming languages, as well as programming itself. My current interests range from mastering Rust, Python, and F#. 
-True to my background as a systems engineer, in my free time I dedicate myself to learning the fundamentals of machine learning.
+I've been working as an enterprise applications programmer for over 10 years, primarily within the .NET ecosystem.
+I enjoy learning new programming languages, as well as programming itself.
+True to my training as a systems engineer, in my free time I dedicate myself to learning the fundamentals of machine learning.
+For all of the above reasons, I consider myself an independent, responsible person with a great capacity for adaptation and a willingness to explore new technologies.
+
 
 ### Essentially a backend programmer with a bit of web frontend.
 
@@ -53,6 +55,12 @@ True to my background as a systems engineer, in my free time I dedicate myself t
 
 </div>
 
+## My current interests are:
+- learning Rust
+- learning Python
+- mastering the mathematical foundations of machine learning.
+
+  
 ## Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@cgonzalezvera-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cgonzalezvera/)
 
